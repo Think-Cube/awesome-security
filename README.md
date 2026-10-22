@@ -300,6 +300,7 @@ A curated collection of fantastic software, libraries, documents, books, and res
 * [Qualys Community Edition](https://www.qualys.com/community-edition/) – free version of Qualys vulnerability scanner.
 * [Rapid7 Nexpose](https://www.rapid7.com/products/nexpose/) – vulnerability and risk management scanner.
 * [Vuls](https://github.com/future-architect/vuls) – vulnerability scanner for Linux, FreeBSD and containers.
+* [Website Vulnerability Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) – self-hosted website vulnerability scanner with 200 deterministic modules covering OWASP, CMS, and AI surfaces.
 
 ---
 
