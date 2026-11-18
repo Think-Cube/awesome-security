@@ -175,6 +175,7 @@ A curated collection of fantastic software, libraries, documents, books, and res
 * [TheHive](https://thehive-project.org/) – scalable, open source security incident response platform.
 * [Tor Bulk Exit List](https://metrics.torproject.org/collector.html) – CollecTor data-collecting service providing Tor network data.
 * [virustotal](https://www.virustotal.com/) – free online service analyzing files and URLs for malicious content detected by 70+ AV engines.
+* [Whatoblock](https://whatoblock.com/) – honeypot-based threat intel on IPs seen scanning, botnet, proxy and Tor exit activity.
 
 ---
 
