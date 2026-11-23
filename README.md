@@ -201,6 +201,7 @@ A curated collection of fantastic software, libraries, documents, books, and res
 * [PTF](https://github.com/trustedsec/ptf) – Penetration Testers Framework providing modular support for up-to-date tools.
 * [Recon-ng](https://github.com/lanmaster53/recon-ng) – full-featured Web Reconnaissance framework written in Python.
 * [sqlmap](https://sqlmap.org/) – open source penetration testing tool automating detection and exploitation of SQL injection.
+* [VibeShield & Vibe Security Checklist](https://github.com/zColdWater/vibe-security-checklist) – MIT web security hardening baselines, zero-dependency bundle secret scanner, and free read-only 116-check live URL & Observatory header scanner.
 * [w3af](https://w3af.org/) – Web Application Attack and Audit Framework.
 * [ZAP](https://www.zaproxy.org/) – OWASP Zed Attack Proxy, easy-to-use integrated penetration testing tool.
 
