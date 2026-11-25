@@ -60,6 +60,7 @@ A curated collection of fantastic software, libraries, documents, books, and res
 * [HonSSH](https://github.com/tnich/honssh) – high-interaction honeypot sitting between an attacker and a honeypot over SSH.
 * [Kippo](https://github.com/desaster/kippo) – medium interaction SSH honeypot for logging brute force attacks.
 * [Kojoney](https://github.com/sec-tools/kojoney) – low level interaction honeypot emulating an SSH server.
+* [WebDecoy API Honeypots](https://docs.webdecoy.com/protection-setup/endpoints/) – hosted HTTP decoys that record requests to unused API paths and expose the evidence for review.
 
 ### 🗂️ Full Packet Capture / Forensic
 
